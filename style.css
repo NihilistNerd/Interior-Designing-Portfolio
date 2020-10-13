@@ -1,0 +1,41 @@
+*{
+	box-sizing: border-box;
+}
+
+html{
+	overflow-x: hidden;
+}
+
+#header-nav{
+	background-color: white; /*#1E1E1E;*/
+	border-radius: 0;
+	border: 0;
+	
+}
+
+.divAdj{
+	padding-left: 0;
+	margin-left: 0;
+	border-left: 0;
+	height: 42px;
+}
+
+#mainTitle{
+	/*font-family: Open-Sans;*/
+	font-weight: bold;
+	color: black;
+	float: left;
+	margin-left: 10px;
+	position: relative;
+}
+
+#menuButtons{
+	position: relative;
+	/*font-family: Open-Sans-Light;*/
+	visibility: show;
+	color: black;
+	right: 10px;
+	padding: 0;
+	border: 0;
+	
+}
